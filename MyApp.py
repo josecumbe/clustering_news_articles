@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.tittle('Clustering News Articles APP')
+st.title('Clustering News Articles APP')
 st.write("""
          
 # Clustering News Articles
