@@ -1,12 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.title('Clustering News Articles APP')
-st.write("""
-         
-# Clustering News Articles
-         
-         """)
+st.title('Clustering News Articles')
 
 st.markdown('<h4>This web page shows articles from dailymail.co.uk grouped in 5 clusters according to content similarity</h4>', unsafe_allow_html=True)
 
